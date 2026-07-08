@@ -1,0 +1,2 @@
+Standarlize Spring Boot error responses: https://medium.com/@davenkin_93074/customize-spring-boot-error-responses-in-uniform-format-084b5973b603
+
